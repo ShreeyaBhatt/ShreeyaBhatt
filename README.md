@@ -159,11 +159,8 @@ Git • GitHub • VS Code • Streamlit • Pandas
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShreeyaBhatt&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeyaBhatt&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreeyaBhatt&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeyaBhatt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
