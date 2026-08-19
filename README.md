@@ -184,7 +184,7 @@ Git • GitHub • VS Code • Streamlit • Pandas
 # 🐍 Contribution Snake
 
 <p align="center">
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ShreeyaBhatt/ShreeyaBhatt/output/github-contribution-grid-snake.svg"/>
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ShreeyaBhatt/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
