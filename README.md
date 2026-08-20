@@ -160,7 +160,7 @@ Git • GitHub • VS Code • Streamlit • Pandas
 # 🔥 GitHub Streak
 
 <p align="center">
-<img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=ShreeyaBhatt&theme=tokyonight"/>
+<img alt="GitHub streak stats" src="https://github-readme-streak-stats-eight.vercel.app?user=ShreeyaBhatt&theme=tokyonight"/>
 </p>
 
 ---
