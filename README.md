@@ -160,7 +160,7 @@ Git • GitHub • VS Code • Streamlit • Pandas
 # 🔥 GitHub Streak
 
 <p align="center">
-<img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreeyaBhatt&theme=tokyonight"/>
+<img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=ShreeyaBhatt&theme=tokyonight"/>
 </p>
 
 ---
@@ -184,8 +184,15 @@ Git • GitHub • VS Code • Streamlit • Pandas
 # 🐍 Contribution Snake
 
 <p align="center">
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ShreeyaBhatt/output/github-contribution-grid-snake.svg"/>
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ShreeyaBhatt/ShreeyaBhatt/output/github-contribution-grid-snake.svg"/>
 </p>
+
+<!--
+  Note: this only renders if you have the snake-generation GitHub Action
+  set up in your ShreeyaBhatt/ShreeyaBhatt profile repo, committing the
+  SVG to an "output" branch. If you haven't added that workflow yet,
+  see: https://github.com/Platane/snk
+-->
 
 ---
 
