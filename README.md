@@ -33,26 +33,6 @@ Computer Science & Technology Student • Full Stack Developer • Python Develo
 
 ---
 
-# 🖥️ Terminal Snapshot
-
-<div align="center">
-
-<h3><code>shreeya@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="810" alt="Animated contribution heatmap" />
-
-<br><br>
-
-<h3><code>shreeya@github ~ $ whoami</code></h3>
-<img src="./info-card.svg" width="490" alt="Animated neofetch-style info card" />
-
-</div>
-
-<sub>Both panels are self-contained animated SVGs (CSS keyframes, no JS) — the heatmap
-is regenerated daily by a GitHub Action from your real public contribution data, see
-<code>.github/workflows/update-profile-art.yml</code>.</sub>
-
----
-
 # 🚀 Featured Projects
 
 ## 💰 WealthNest
@@ -196,8 +176,13 @@ Git • GitHub • VS Code • Streamlit • Pandas
 # 📈 Contribution Graph
 
 <p align="center">
-<img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShreeyaBhatt&theme=tokyo-night"/>
+<img alt="Animated contribution heatmap" src="./contrib-heatmap.svg" width="810"/>
 </p>
+
+<sub>Self-hosted SVG (no third-party badge service, so it can't 402 on you) — regenerated
+daily from your real public contributions by <code>.github/workflows/update-profile-art.yml</code>.
+Commit <code>contrib-heatmap.svg</code>, <code>scripts/</code>, and <code>data/</code> from the earlier
+download for this to render.</sub>
 
 ---
 
