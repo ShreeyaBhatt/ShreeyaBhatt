@@ -33,6 +33,26 @@ Computer Science & Technology Student • Full Stack Developer • Python Develo
 
 ---
 
+# 🖥️ Terminal Snapshot
+
+<div align="center">
+
+<h3><code>shreeya@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="810" alt="Animated contribution heatmap" />
+
+<br><br>
+
+<h3><code>shreeya@github ~ $ whoami</code></h3>
+<img src="./info-card.svg" width="490" alt="Animated neofetch-style info card" />
+
+</div>
+
+<sub>Both panels are self-contained animated SVGs (CSS keyframes, no JS) — the heatmap
+is regenerated daily by a GitHub Action from your real public contribution data, see
+<code>.github/workflows/update-profile-art.yml</code>.</sub>
+
+---
+
 # 🚀 Featured Projects
 
 ## 💰 WealthNest
