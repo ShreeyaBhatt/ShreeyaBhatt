@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shreeya Bhatt</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:22C55E&height=200&section=header&text=Hi%20👋,%20I'm%20Shreeya%20Bhatt&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner"/>
+</p>
 
-<h3 align="center">
-Computer Science & Technology Student • Full Stack Developer • Python Developer • AI Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+%26+Technology+Student;Full+Stack+Developer;Python+Developer;AI+Enthusiast&font=Fira+Code&center=true&width=650&height=45&color=4F46E5&vCenter=true&size=20&pause=1500" alt="Typing SVG"/>
+</p>
 
 <p align="center">
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ShreeyaBhatt&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -10,7 +12,7 @@ Computer Science & Technology Student • Full Stack Developer • Python Develo
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/ShreeyaBhatt?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:22C55E&height=3&width=100%25" alt="divider"/>
 
 # 💫 About Me
 
@@ -31,7 +33,7 @@ Computer Science & Technology Student • Full Stack Developer • Python Develo
 - Python Developer Roles
 - MERN Stack Developer Roles
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:22C55E&height=3&width=100%25" alt="divider"/>
 
 # 🚀 Featured Projects
 
@@ -39,6 +41,8 @@ Computer Science & Technology Student • Full Stack Developer • Python Develo
 ### AI-Powered Family Investment Portfolio Tracker
 
 **React • Node • Express • Django REST • MongoDB • Gemini AI • Scikit-learn**
+
+**[Live Demo →](https://wealthnest-client.onrender.com)**
 
 ✔ Machine Learning Risk Prediction
 
@@ -106,7 +110,7 @@ Core Java
 
 ✔ Payment Processing
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:22C55E&height=3&width=100%25" alt="divider"/>
 
 # 💻 Tech Stack
 
@@ -146,7 +150,7 @@ Core Java
 
 Git • GitHub • VS Code • Streamlit • Pandas
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:22C55E&height=3&width=100%25" alt="divider"/>
 
 # 📊 GitHub Stats
 
@@ -199,7 +203,7 @@ download for this to render.</sub>
   see: https://github.com/Platane/snk
 -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:22C55E&height=3&width=100%25" alt="divider"/>
 
 # 🌐 Connect With Me
 
@@ -221,3 +225,7 @@ download for this to render.</sub>
 💡 I believe technology should solve real-world problems.
 
 ⭐ Thanks for visiting my profile!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:4F46E5&height=100&section=footer" alt="footer wave"/>
+</p>
